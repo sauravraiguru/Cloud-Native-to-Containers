@@ -1,9 +1,11 @@
 # Cloud-Native-to-Containers
 This is a repository with course content that gets you started with Cloud Native ramping up to containerization
 
+![logo](img/bsok-1.png)
+
 The course begins with a live hands-on lab and then proceeds as self-paced course. After the lab, every week you will receive a new section you will be expected to complete during the week before you receive details for the next section. Links will be live as we progress each week.
 
-1. Pre-reads
+1. [Pre-reads](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-to-Containers#pre-reads)
 2. Pre-requisites for the live hands-on
 3. Cloud 101
 4. Cloud 201
