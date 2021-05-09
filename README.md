@@ -9,11 +9,11 @@ The course begins with a live hands-on lab and then proceeds as self-paced cours
 
 1. [Pre-reads](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-to-Containers#pre-reads)
 2. [Pre-requisites for live hands-on](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-to-Containers#Pre-requisites-for-live-hands-on)
-3. Cloud 101
-4. Cloud 201
-5. Cloud 301
-6. Cloud 401
-7. Certification
+3. Week 1: Cloud 101
+4. Week 2: Cloud 201
+5. Week 3: Cloud 301
+6. Week 4: Cloud 401
+7. Digital Badge & Certification
 
 ## Pre-reads
 
