@@ -23,13 +23,13 @@ Cloud native applications are composed of reusable components known as microserv
 
 Check out this quick overview video that goes through a cloud infrastructure architecture and explains how 
 
-[![Watch the video](https://img.youtube.com/vi/fp9_ubiKqFU/0.jpg)](https://www.youtube.com/watch?v=fp9_ubiKqFU "Title")
+[![Watch the video](https://img.youtube.com/vi/fp9_ubiKqFU/0.jpg)](https://www.youtube.com/watch?v=fp9_ubiKqFU)
 
 
 ## Containers vs VMs
 
-[![Watch the video](https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=8)]
+[![Watch the video](https://img.youtube.com/vi/cjXI-yxqGTI/0.jpg)](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
 ## Cloud Native DevOps
 
-![Watch the video](https://www.youtube.com/watch?v=FzERTm_j2wE)
+[![Watch the video](https://img.youtube.com/vi/FzERTm_j2wE/0.jpg)](https://www.youtube.com/watch?v=FzERTm_j2wE)
