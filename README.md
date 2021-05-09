@@ -8,7 +8,7 @@ The course begins with a live hands-on lab and then proceeds as self-paced cours
 # Topics
 
 1. [Pre-reads](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-to-Containers#pre-reads)
-2. Pre-requisites for live hands-on
+2. [Pre-requisites for live hands-on](https://github.com/IBM-Developer-Advocacy-India/Cloud-Native-to-Containers#Pre-requisites-for-live-hands-on)
 3. Cloud 101
 4. Cloud 201
 5. Cloud 301
@@ -49,4 +49,4 @@ Optional: [In depth: Containers Vs. VMs](https://developer.ibm.com/articles/true
 
 [![Watch the video](https://img.youtube.com/vi/FzERTm_j2wE/0.jpg)](https://www.youtube.com/watch?v=FzERTm_j2wE)
 
-### Pre-requisites for live hands-on
+## Pre-requisites for live hands-on
