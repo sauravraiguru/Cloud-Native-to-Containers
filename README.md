@@ -15,7 +15,7 @@ The course begins with a live hands-on lab and then proceeds as self-paced cours
 
 # Pre-reads
 
-To understand the topics we would be talking in depth in the hands-on lab on day 1, here are a few pre-reads that will get you upto speed. 
+To understand the topics we would be talking in depth in the hands-on lab on day 1, here are a few videos that will get you upto speed. 
 
 ## Intro to Cloud Native
 
@@ -27,11 +27,17 @@ Check out this quick overview video that goes through a cloud infrastructure arc
 
 ## What is Public Cloud?
 
+Public cloud provides developers with the ability to provision resources on demand and only pay for what you use, but what makes up a public cloud?
+
+Check out this quick overview video that provides an overview of public cloud by explaining the different compute solutions, levels of control, and capabilities that are all available in a public cloud.
+
 [![Watch the video](https://img.youtube.com/vi/KaCyfQ7luVY/0.jpg)](https://www.youtube.com/watch?v=KaCyfQ7luVY)
 
 ## Containers vs VMs
 
 [![Watch the video](https://img.youtube.com/vi/cjXI-yxqGTI/0.jpg)](https://www.youtube.com/watch?v=cjXI-yxqGTI)
+
+Optional: [In depth: Containers Vs. VMs](https://developer.ibm.com/articles/true-benefits-of-moving-to-containers-1/?mhsrc=ibmsearch_a&mhq=containers%20vms)
 
 ## Containerization Explained
 
