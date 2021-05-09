@@ -25,11 +25,19 @@ Check out this quick overview video that goes through a cloud infrastructure arc
 
 [![Watch the video](https://img.youtube.com/vi/fp9_ubiKqFU/0.jpg)](https://www.youtube.com/watch?v=fp9_ubiKqFU)
 
+## What is Public Cloud?
+
+[![Watch the video](https://img.youtube.com/vi/KaCyfQ7luVY/0.jpg)](https://www.youtube.com/watch?v=KaCyfQ7luVY)
 
 ## Containers vs VMs
 
 [![Watch the video](https://img.youtube.com/vi/cjXI-yxqGTI/0.jpg)](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
+## Containerization Explained
+
+[![Watch the video](https://img.youtube.com/vi/0qotVMX-J5s/0.jpg)](https://www.youtube.com/watch?v=0qotVMX-J5s)
+
 ## Cloud Native DevOps
 
 [![Watch the video](https://img.youtube.com/vi/FzERTm_j2wE/0.jpg)](https://www.youtube.com/watch?v=FzERTm_j2wE)
+
