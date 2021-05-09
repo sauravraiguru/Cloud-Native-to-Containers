@@ -3,7 +3,7 @@ This is a repository with course content that gets you started with Cloud Native
 
 ![logo](img/bsok-1.png)
 
-The course begins with a live hands-on lab and then proceeds as self-paced course. After the lab, every week you will receive a new section you will be expected to complete during the week before you receive details for the next section. Links will be live as we progress each week.
+The course begins with a live hands-on lab and then proceeds a as self-paced course. After the lab, every week you will receive a new section, which you will be expected to complete during the week before you receive details for the next section. Links will be live as we progress each week.
 
 # Topics
 
