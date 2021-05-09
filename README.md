@@ -15,7 +15,7 @@ The course begins with a live hands-on lab and then proceeds as self-paced cours
 6. Week 4: Cloud 401
 7. Digital Badge & Certification
 
-## Pre-reads
+## 1. Pre-reads
 
 To understand the topics we would be talking in depth in the hands-on lab on day 1, here are a few videos that will get you upto speed. 
 
@@ -37,16 +37,27 @@ Check out this quick overview video that provides an overview of public cloud by
 
 ### Containers vs VMs
 
+What are virtual machines and containers, and how do they fit into our modern cloud-native way of building and architecting applications? 
+
+In this lightboard video, Nigel Brown with IBM Cloud, answers this question and much more in four parts. He also breaks down why users should not just look at virtual machines and containers as competing technologies because there can be a lot of benefits of having them work together for particular use cases.
+
 [![Watch the video](https://img.youtube.com/vi/cjXI-yxqGTI/0.jpg)](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
 Optional: [In depth: Containers Vs. VMs](https://developer.ibm.com/articles/true-benefits-of-moving-to-containers-1/?mhsrc=ibmsearch_a&mhq=containers%20vms)
 
 ### Containerization Explained
 
+Sai Vennam delves into containerization and container-based technology, focusing on the portability, scalability, and increasingly Agile DevOps processes that containers facilitate.
+
 [![Watch the video](https://img.youtube.com/vi/0qotVMX-J5s/0.jpg)](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
 ### Cloud Native DevOps
 
+In this lightboard video, Sai Vennam and Matt Perrins with IBM Cloud walk through a scenario of taking an existing application and migrating it over to use a cloud-native approach in order to take advantage of increased scalability and higher-level services. These two cloud native experts also demonstrate how to best use DevOps principles to manage the building, testing, and deployment of the application's lifecycle. 
+
 [![Watch the video](https://img.youtube.com/vi/FzERTm_j2wE/0.jpg)](https://www.youtube.com/watch?v=FzERTm_j2wE)
 
-## Pre-requisites for live hands-on
+## 2. Pre-requisites for live hands-on
+
+1. Create an IBM Cloud Account
+2. 
