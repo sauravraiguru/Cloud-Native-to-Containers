@@ -15,12 +15,20 @@ The course begins with a live hands-on lab and then proceeds as self-paced cours
 
 # Pre-reads
 
-To get used to the concepts that would be talked in depth in the hands-on lab on day 1, here are a few pre-reads that will get you upto speed. 
+To understand the topics we would be talking in depth in the hands-on lab on day 1, here are a few pre-reads that will get you upto speed. 
 
+## Intro to Cloud Native
 
 Cloud native applications are composed of reusable components known as microservices and are designed to integrate into any cloud environment. This flexible and scalable approach is ideal for enterprises who are tasks with improving existing applications, building new applications, and enhancing user experience.
 
-Check out this quick overview video with Andrea Crawford as she goes through a cloud infrastructure architecture and explains how 
+Check out this quick overview video that goes through a cloud infrastructure architecture and explains how 
 
-## Demo video
-[![Watch the video](https://www.youtube.com/watch?v=fp9_ubiKqFU&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx)
+![Watch the video](https://www.youtube.com/watch?v=fp9_ubiKqFU&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx)
+
+## Containers vs VMs
+
+![Watch the video](https://www.youtube.com/watch?v=cjXI-yxqGTI&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=8)
+
+## Cloud Native DevOps
+
+![Watch the video](https://www.youtube.com/watch?v=FzERTm_j2wE)
